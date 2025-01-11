@@ -1,0 +1,7 @@
+# Data Description
+The dataset includes the following columns:
+- Location
+- Size (sq. ft.)
+- Bedrooms
+- Bathrooms
+- Price
